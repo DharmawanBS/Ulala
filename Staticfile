@@ -1,3 +1,0 @@
-pushstate: enabled
-gzip: on
-root: dist/angular-tour-of-heroes
